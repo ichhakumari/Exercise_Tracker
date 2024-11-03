@@ -4,11 +4,11 @@ In recent years, fitness tracking has become a trend among individuals who are i
 <h2> Project Goal </h2>
 The primary goal of this project is to build a Python-based fitness tracker capable of classifying barbell exercises and counting repetitions. This will be achieved using accelerometer and gyroscope data collected via the Meta Motion sensor. The exercises we aim to classify are:
 <tr>
-  <td>•	Bench Press </td>
-  <td>•	Deadlift </td>
-  <td>•	Overhead Press </td>
-  <td>•	Barbell Row </td>
-  <td> • Squats</td>
+  <td>Bench Press </td>
+  <td>Deadlift </td>
+  <td>Overhead Press </td>
+  <td>Barbell Row </td>
+  <td>Squats</td>
 </tr>
 <h2>3. Data Collection </h2>
 The data for this project was collected during gym workouts using the Meta Motion sensor, a research-grade device by Ambient Lab. It tracks various sensor values and exports them into CSV files, which we will use to process and train our machine learning model. Five participants, including myself, performed each exercise with the sensor attached to their wrists, which generated unique time-series patterns.
