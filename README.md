@@ -54,9 +54,9 @@ Finally, we will implement an algorithm to count exercise repetitions. By identi
 </p>
 
 <h2> 8. Future Directions</h2>
-In the future, we can expand the fitness tracker to:
-    <td>•	Include more exercises (e.g., lunges, curls) </td>
-    <td>•	Develop real-time tracking on a mobile app </td>
+In the future, we can expand the fitness tracker to:<br>
+    <td>•	Include more exercises (e.g., lunges, curls) </td><br>
+    <td>•	Develop real-time tracking on a mobile app </td><br>
     <td>•	Integrate with popular fitness devices (Apple Watch, Fitbit) </td>
 
 <h2>9. Conclusion</h2>
