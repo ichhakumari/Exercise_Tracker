@@ -15,13 +15,13 @@ The data for this project was collected during gym workouts using the Meta Motio
 <h2>4. Quantified Self </h2>
 The concept of the Quantified Self is central to this project. It refers to individuals who engage in self-tracking of biological, physical, behavioral, or environmental information to achieve a personal goal. Devices like Apple Watches and Whoop Bands track metrics such as heart rate and sleep, empowering users to optimize their health. This fitness tracker will expand the Quantified Self's capabilities into strength training.
 <h2>5. Tools and Libraries </h2>
-The following tools and libraries will be used:
+The following tools and libraries will be used:<br>
 <tr>
-  <td>•	Visual Studio Code with interactive Python </td>
-  <td> •	Python Libraries:</td>
-  <td>•	Pandas for data processing </td>
-  <td>•	Matplotlib/Seaborn for visualization </td>
-  <td>•	Scikit-learn for machine learning models </td>
+  <td>•	Visual Studio Code with interactive Python </td><br>
+  <td> •	Python Libraries:</td><br>
+  <td>•	Pandas for data processing </td><br>
+  <td>•	Matplotlib/Seaborn for visualization </td><br>
+  <td>•	Scikit-learn for machine learning models </td><br>
   <td>•	NumPy for numerical operations </td>
  </tr>
 <h2>6. Project Workflow</h2>
