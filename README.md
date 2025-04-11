@@ -33,12 +33,12 @@ To understand the patterns of each exercise, we will visualize the time-series d
 <h4> 6.3 Outlier Detection</h4>
 Sensor data is often noisy due to extraneous movements. We'll detect and eliminate outliers using methods like Z-score or IQR. This process ensures that only valid exercise data is considered for training the model.
 <h4> 6.4 Feature Engineering</h4>
-This step involves extracting useful features from the raw sensor data. We'll extract features such as:
+This step involves extracting useful features from the raw sensor data. We'll extract features such as:<br>
 <tr> 
-  <td>•	Statistical features (mean, variance) </td>
-    <td> •	Frequency domain features</td>
-    <td>•	Time-based features </td>
-    <td>•	Principal Component Analysis (PCA) for dimensionality reduction </td>
+  <td>•	Statistical features (mean, variance) </td><br>
+    <td> •	Frequency domain features</td><br>
+    <td>•	Time-based features </td><br>
+    <td>•	Principal Component Analysis (PCA) for dimensionality reduction </td><br>
     <td>•	Low-pass filtering to smooth noisy signals </td>
 
 </tr>
