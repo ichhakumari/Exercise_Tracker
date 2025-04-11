@@ -17,8 +17,8 @@ The concept of the Quantified Self is central to this project. It refers to indi
 <h2>5. Tools and Libraries </h2>
 The following tools and libraries will be used:<br>
 <tr>
-  <td>•	Visual Studio Code with interactive Python </td><br>
-  <td> •	Python Libraries:</td><br>
+  Visual Studio Code with interactive Python<br>
+  <td> Python Libraries:</td><br>
   <td>•	Pandas for data processing </td><br>
   <td>•	Matplotlib/Seaborn for visualization </td><br>
   <td>•	Scikit-learn for machine learning models </td><br>
